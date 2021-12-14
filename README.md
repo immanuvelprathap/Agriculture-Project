@@ -70,9 +70,7 @@ These corps include:
  
 # Solution Statement
 
-The solution is predictions of yield of crops worldwide based on collected data. First, I will clean the collected data, merge the dataframes together based on common columns and
-
-explore relations between the different variables for correlation. Then I will perform normalization to establish a common scale for all the features, transform any categorical data such as country and crops name to numerical form.
+The solution is predictions of yield of crops worldwide based on collected data. First, I will clean the collected data, merge the dataframes together based on common columns and explore relations between the different variables for correlation. Then I will perform normalization to establish a common scale for all the features, transform any categorical data such as country and crops name to numerical form.
  For training I will split the data 70% training to 30% testing and apply different machine learning algorithms to compare which delivers best results.
 The total size of the dataset is expected to be 200MB, the files that contain the data has been collected, and final datafame is expected to have: item (crop) country, year, yield value, average rainfall, pesticides and average temperature.
 
@@ -92,6 +90,7 @@ Function: sklearn.metrics.r2_score
 After cleaning and exploring the relationship between the features, the final dataframe that contains all the features that will be used for the prediction process can be seen below in the screenshots:
 • Area: country of production.
 • Item: type of crop.
+
  Default SciKit-Learn Gradient Boosting Regressor and Random Forest Regressor will be used as benchmarks. Several models will then be explored to improve over the benchmark including Decision Tree Regressor and Support-Vector Machines (SVM).
  This function computes subset accuracy: the set of labels predicted for a sample
 must exactly match the corresponding set of labels in y_true. For this problem, a model that will preferably achieve an accuracy over 90%.
