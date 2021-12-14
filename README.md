@@ -1,7 +1,6 @@
 # Agriculture - Project
 
-Capstone project for Machine Learning Engineering . 
-Project: Predicting Crops Yield : A Machine Learning Approach
+Project: Predicting Crops Yield : A Machine Learning Approach.
 Problem: Predict crops yield for 10 of most consumed crops worldwide.
 
 Environment
