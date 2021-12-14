@@ -1,6 +1,6 @@
 # Agriculture - Project
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/immanuvelprathap/Agriculture-Project/blob/main/farmer.jpg)
 
 Project: Predicting Crops Yield : A Machine Learning Approach.
 Problem: Predict crops yield for 10 of most consumed crops worldwide.
