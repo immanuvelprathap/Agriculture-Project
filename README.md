@@ -103,4 +103,4 @@ must exactly match the corresponding set of labels in y_true. For this problem, 
 • Pesticides_tonnes: Amount of pesticides used on the crop that year.
 • Avg_temp: Average temperature recorded for that year.
 
-![alt text](https://github.com/immanuvelprathap/Agriculture-Project/blob/main/model_depth.pdf)
+![alt text](https://github.com/immanuvelprathap/Agriculture-Project/blob/main/model_depth.png)
