@@ -1,5 +1,7 @@
 # Agriculture - Project
 
+<a href="https://miro.medium.com/max/2000/1*WvbWS4LQVm2gHatXJmxBlQ.jpeg" target="_blank"></a>
+
 Project: Predicting Crops Yield : A Machine Learning Approach.
 Problem: Predict crops yield for 10 of most consumed crops worldwide.
 
